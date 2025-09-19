@@ -10,6 +10,9 @@
 ### biomejs/biome
 - [Auto-fix from conflicting lint rules breaks code](https://github.com/biomejs/biome/issues/6859)
 
+### vercel/next.js
+- [docs: correct title wording in static export guide #79790](https://github.com/vercel/next.js/pull/79790)
+
 ### toss/es-hangul
 - [docs: amountToHangul 문서에 deprecated 표시 #332](https://github.com/toss/es-hangul/pull/332)
 
