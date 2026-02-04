@@ -15,6 +15,9 @@
 ### toss/es-hangul
 - [docs: amountToHangul 문서에 deprecated 표시 #332](https://github.com/toss/es-hangul/pull/332)
 
+### toss/granite
+- [Show dev server URL on startup#94](https://github.com/toss/granite/pull/94)
+
 ### lynx-family/lynx-website
 - [docs: update links in scrolling guide to English version #80](https://github.com/lynx-family/lynx-website/pull/80)
 - [fix: enhance type safety in lynx-compat-data #90](https://github.com/lynx-family/lynx-website/pull/90)
