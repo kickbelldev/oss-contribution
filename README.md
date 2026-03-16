@@ -2,6 +2,12 @@
 
 ## PRs
 
+### zed-industries/zed
+- [git_ui: Add file and folder icons to the Git panel#51000](https://github.com/zed-industries/zed/pull/51000)
+
+### affaan-m/everything-claude-code
+- [fix(skills): add missing name frontmatter for search-first](https://github.com/affaan-m/everything-claude-code/pull/266)
+
 ### TanStack/query
 - [test(vue-query): add test and improve typing #8103](https://github.com/TanStack/query/pull/8103)
 
@@ -24,7 +30,6 @@
 
 ### react-navigation
 - [fix: update pointerEvents handling to prevent deprecation warnings #12489](https://github.com/react-navigation/react-navigation/pull/12489)
-
 
 
 ## Issues
